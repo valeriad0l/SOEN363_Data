@@ -1,0 +1,51 @@
+imdb_id,title,description,rating,content_rating_id,release_year,runtime,AKAs,num_reviews
+tt0000001,"The Shawshank Redemption","An innocent mans resilience and hope in the face of unjust imprisonment",8.7,1,1994,172,"Escape from Shawshank",737
+tt0000002,Inception,"A heist within the complex architecture of the human subconscious",7.9,1,2010,172,"Dream Layers",824
+tt0000003,"The Godfather","The saga of a crime familys rise and near fall",9.1,5,1972,96,"Mafia Dynasty",616
+tt0000004,"Forrest Gump","A simple mans extraordinary journey through pivotal moments in American history",4.9,4,1994,120,"Run, Forrest, Run",150
+tt0000005,"Jurassic Park","The chaos that ensues when a dinosaur theme parks security system fails",5.8,4,1993,141,"Dinosaur Island",217
+tt0000006,Titanic,"A tragic love story set against the backdrop of a historical maritime disaster.",8.1,1,1997,143,"Tragedy of the Ocean",408
+tt0000007,"The Matrix","A dystopian future where humanity is unknowingly trapped in a simulated reality",6.7,3,1999,147,"Virtual Reality Revolt",575
+tt0000008,"Star Wars: A New Hope","The beginning of an epic battle between the Rebel Alliance and the evil Galactic Empire",3,5,1977,102,"Galactic Rebellion",651
+tt0000009,"The Lion King","A young lions journey to reclaim his kingdom",8.3,2,1994,137,"King of the Pride",873
+tt0000010,"The Dark Knight","A superheros struggle against a chaotic villain in a crime-ridden city",8.1,3,2008,115,"Gothams Guardian",738
+tt0000011,"Back to the Future","A superheros struggle against a chaotic villain in a crime-ridden city",3.3,1,1985,136,"Timely Adventures",242
+tt0000012,"Pulp Fiction"," Interwoven stories of crime and redemption in Los Angeles.",7,2,1994,169,"Twisted Tales",136
+tt0000013,"Fight Club","The formation of an underground fight club and its evolution into something much more.",9.4,2,1999,172,"Underground Fists",126
+tt0000014,Avatar,"A paraplegic Marines adventure on an alien planet, and his internal conflict",1.4,3,2009,140,"Alien World",299
+tt0000015,"Harry Potter and the Sorcerers Stone","A young boy discovers his magical heritage and attends a school for wizards.",5.1,3,2001,118,"Wizard Apprentice",249
+tt0000016,"Saving Private Ryan","A group of soldiers perilous mission to save one man during World War II.",3.8,2,1998,110,"Mission of Honor",669
+tt0000017,Gladiator,"A betrayed Roman generals journey for vengeance in the gladiatorial arena",1.2,5,2000,171,"Fallen Warrior",483
+tt0000018,"Up"","An elderly mans quest to fulfill a promise to his late wife using a house lifted by balloons.",4,3,2009,132,"Sky-High Adventure",653
+tt0000019,"Schindlers List","The true story of how a German businessman saved over a thousand Jews during the Holocaust",5.9,4,1993,85,"Rescuer in the Shadows",777
+tt0000020,"The Silence of the Lambs","A young FBI trainee seeks the help of an imprisoned cannibal to catch another serial killer.",8.8,3,1991,152,"Rescuer in the Shadows",265
+tt0000021,Interstellar,"Astronauts travel through a wormhole in search of a new habitable planet.",3.3,1,2014,120,"Through the Wormhole",119
+tt0000022,"The Lord of the Rings: The Fellowship of the Ring","The beginning of an epic quest to destroy a powerful and cursed ring.",3.4,2,2001,98,"Quest for the Ring",786
+tt0000023,Psycho,"A secretarys encounter with a mysterious motel owner harboring dark secrets",5.3,2,1960,155,"Motel of Horrors",162
+tt0000024,"Toy Story","The secret life of toys when their owner is not around.",2.4,1,1995,127,"Toys Come Alive",939
+tt0000025,"Gone with the Wind","A turbulent romance set against the American Civil War and Reconstruction era.",9.7,1,1939,165,"Love and War",955
+tt0000026,Braveheart,"The story of a Scottish warriors rebellion against English rule.",3.6,3,1995,80,"Freedoms Battle",154
+tt0000027,Casablanca," A love triangle set in a Moroccan city during World War II.",9,1,1942,90,"Love in Wartime",107
+tt0000028,"The Grand Budapest Hotel","A concierges adventures in a famous European hotel between the wars.",9.1,5,2014,159,"Eccentric Elegance",951
+tt0000029,Whiplash,"A young drummers intense journey to greatness under a ruthless mentor.",1.3,1,2014,145,"Rhythm of Obsession",506
+tt0000030,"Mad Max: Fury Road","A high-octane adventure in a post-apocalyptic wasteland.",2.6,3,2015,160,"Desert Chaos",198
+tt0000031,"La La Land","A musician and an actress chase their dreams in Los Angeles, finding love along the way.",3.2,5,2016,168,"Dreams in Hollywood",366
+tt0000032,"The Prestige","Two magicians engage in a bitter rivalry to create the ultimate illusion.",9.8,2,2006,146,"Illusions of Rivalry",374
+tt0000033,"Blade Runner","A cop hunts down bioengineered beings in a dystopian future.",1.6,5,1982,80,"Hunt for the Future",573
+tt0000034,"Eternal Sunshine of the Spotless Mind","A couple undergoes a procedure to erase memories of their troubled relationship.",1.3,1,2004,135,"Erased Memories",355
+tt0000035,"The Truman Show","The realization and escape of a man whose entire life is a TV show.",2.3,2,1998,105,"Life on Display",454
+tt0000036,"The Green Mile","The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",9.5,2,1999,150,"Miracles of Death Row",971
+tt0000037,Goodfellas,"The rise and fall of a mobster and his friends in the New York crime scene.",3.9,3,1990,163,"Life in the Mafia",751
+tt0000038,Amélie,"A young womans journey to spread joy in the lives of others while struggling with her own isolation.",5,1,2001,110,"Quirky Charms",910
+tt0000039,"Pans Labyrinth","A young girls escapism into a mythical labyrinth during the Spanish Civil War.",5.8,2,2006,168,"Maze of the Faun",693
+tt0000040,"The Departed","A cop goes undercover into the mob while a mobster infiltrates the police force",3.3,3,2006,113,"Undercover Vengeance",616
+tt0000041,"The Big Lebowski","A laid-back bowler gets mixed up in a case of mistaken identity.",5.5,4,1998,82,"The Dudes Misadventure",68
+tt0000042,Memento,"A man with short-term memory loss seeks revenge for his wifes murder.",8.1,4,2000,104,"Forgotten Revenge",444
+tt0000043,"The Sixth Sense","A man with short-term memory loss seeks revenge for his wifes murder.",9.6,4,1999,129,"Ghosts Among Us",944
+tt0000044,"12 Angry Men","A jury deliberates the guilt or innocence of a defendant on the basis of reasonable doubt.",5.3,4,1957,151,"Verdict in Question",210
+tt0000045,"Finding Nem","A clownfishs journey to find his son who has been captured by divers",5.9,2,2003,102,"Oceans Quest",641
+tt0000046,"The Incredibles","A family of undercover superheroes attempts to live a quiet suburban life.",2.2,4,2004,89,"Super Family",923
+tt0000047,"A Beautiful Mind","The life of a brilliant but asocial mathematician and his struggle with mental illness.",3.8,5,2001,180,"Genius in Turmoil",121
+tt0000048,"Slumdog Millionaire","A Mumbai teenager reflects on his life after being accused of cheating on a game show.",3,4,2008,161,"Rags to Riches",70
+tt0000049,"No Country for Old Men","Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",5.5,3,2007,98,"Chase of Fate",231
+tt0000050,"The Godfather Part II","The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son expands and tightens his grip on the family crime syndicate.",4.3,2,1974,87,"Rise and Fall of a Don",158

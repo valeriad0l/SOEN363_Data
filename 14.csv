@@ -1,0 +1,51 @@
+imdb_key,title,description,rating,content_rating,runtime,number_of_genres,number_of_countries
+tt0000001,"The Shawshank Redemption","An innocent mans resilience and hope in the face of unjust imprisonment",8.7,G,172,0,1
+tt0000002,Inception,"A heist within the complex architecture of the human subconscious",7.9,G,172,0,2
+tt0000003,"The Godfather","The saga of a crime familys rise and near fall",9.1,NC-17,96,0,1
+tt0000004,"Forrest Gump","A simple mans extraordinary journey through pivotal moments in American history",4.9,R,120,0,1
+tt0000005,"Jurassic Park","The chaos that ensues when a dinosaur theme parks security system fails",5.8,R,141,0,1
+tt0000006,Titanic,"A tragic love story set against the backdrop of a historical maritime disaster.",8.1,G,143,0,1
+tt0000007,"The Matrix","A dystopian future where humanity is unknowingly trapped in a simulated reality",6.7,PG-13,147,0,2
+tt0000008,"Star Wars: A New Hope","The beginning of an epic battle between the Rebel Alliance and the evil Galactic Empire",3,NC-17,102,0,1
+tt0000009,"The Lion King","A young lions journey to reclaim his kingdom",8.3,PG,137,0,1
+tt0000010,"The Dark Knight","A superheros struggle against a chaotic villain in a crime-ridden city",8.1,PG-13,115,1,1
+tt0000011,"Back to the Future","A superheros struggle against a chaotic villain in a crime-ridden city",3.3,G,136,1,2
+tt0000012,"Pulp Fiction"," Interwoven stories of crime and redemption in Los Angeles.",7,PG,169,1,1
+tt0000013,"Fight Club","The formation of an underground fight club and its evolution into something much more.",9.4,PG,172,1,1
+tt0000014,Avatar,"A paraplegic Marines adventure on an alien planet, and his internal conflict",1.4,PG-13,140,1,1
+tt0000015,"Harry Potter and the Sorcerers Stone","A young boy discovers his magical heritage and attends a school for wizards.",5.1,PG-13,118,1,1
+tt0000016,"Saving Private Ryan","A group of soldiers perilous mission to save one man during World War II.",3.8,PG,110,1,1
+tt0000017,Gladiator,"A betrayed Roman generals journey for vengeance in the gladiatorial arena",1.2,NC-17,171,1,1
+tt0000018,"Up"","An elderly mans quest to fulfill a promise to his late wife using a house lifted by balloons.",4,PG-13,132,1,1
+tt0000019,"Schindlers List","The true story of how a German businessman saved over a thousand Jews during the Holocaust",5.9,R,85,1,1
+tt0000020,"The Silence of the Lambs","A young FBI trainee seeks the help of an imprisoned cannibal to catch another serial killer.",8.8,PG-13,152,1,2
+tt0000021,Interstellar,"Astronauts travel through a wormhole in search of a new habitable planet.",3.3,G,120,1,1
+tt0000022,"The Lord of the Rings: The Fellowship of the Ring","The beginning of an epic quest to destroy a powerful and cursed ring.",3.4,PG,98,1,1
+tt0000023,Psycho,"A secretarys encounter with a mysterious motel owner harboring dark secrets",5.3,PG,155,1,1
+tt0000024,"Toy Story","The secret life of toys when their owner is not around.",2.4,G,127,1,1
+tt0000025,"Gone with the Wind","A turbulent romance set against the American Civil War and Reconstruction era.",9.7,G,165,1,1
+tt0000026,Braveheart,"The story of a Scottish warriors rebellion against English rule.",3.6,PG-13,80,1,1
+tt0000027,Casablanca," A love triangle set in a Moroccan city during World War II.",9,G,90,1,1
+tt0000028,"The Grand Budapest Hotel","A concierges adventures in a famous European hotel between the wars.",9.1,NC-17,159,1,1
+tt0000029,Whiplash,"A young drummers intense journey to greatness under a ruthless mentor.",1.3,G,145,1,1
+tt0000030,"Mad Max: Fury Road","A high-octane adventure in a post-apocalyptic wasteland.",2.6,PG-13,160,1,2
+tt0000031,"La La Land","A musician and an actress chase their dreams in Los Angeles, finding love along the way.",3.2,NC-17,168,1,1
+tt0000032,"The Prestige","Two magicians engage in a bitter rivalry to create the ultimate illusion.",9.8,PG,146,1,1
+tt0000033,"Blade Runner","A cop hunts down bioengineered beings in a dystopian future.",1.6,NC-17,80,1,1
+tt0000034,"Eternal Sunshine of the Spotless Mind","A couple undergoes a procedure to erase memories of their troubled relationship.",1.3,G,135,1,1
+tt0000035,"The Truman Show","The realization and escape of a man whose entire life is a TV show.",2.3,PG,105,1,1
+tt0000036,"The Green Mile","The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",9.5,PG,150,1,1
+tt0000037,Goodfellas,"The rise and fall of a mobster and his friends in the New York crime scene.",3.9,PG-13,163,1,1
+tt0000038,Amélie,"A young womans journey to spread joy in the lives of others while struggling with her own isolation.",5,G,110,1,1
+tt0000039,"Pans Labyrinth","A young girls escapism into a mythical labyrinth during the Spanish Civil War.",5.8,PG,168,1,1
+tt0000040,"The Departed","A cop goes undercover into the mob while a mobster infiltrates the police force",3.3,PG-13,113,1,1
+tt0000041,"The Big Lebowski","A laid-back bowler gets mixed up in a case of mistaken identity.",5.5,R,82,1,2
+tt0000042,Memento,"A man with short-term memory loss seeks revenge for his wifes murder.",8.1,R,104,1,2
+tt0000043,"The Sixth Sense","A man with short-term memory loss seeks revenge for his wifes murder.",9.6,R,129,1,1
+tt0000044,"12 Angry Men","A jury deliberates the guilt or innocence of a defendant on the basis of reasonable doubt.",5.3,R,151,1,1
+tt0000045,"Finding Nem","A clownfishs journey to find his son who has been captured by divers",5.9,PG,102,1,1
+tt0000046,"The Incredibles","A family of undercover superheroes attempts to live a quiet suburban life.",2.2,R,89,1,1
+tt0000047,"A Beautiful Mind","The life of a brilliant but asocial mathematician and his struggle with mental illness.",3.8,NC-17,180,1,1
+tt0000048,"Slumdog Millionaire","A Mumbai teenager reflects on his life after being accused of cheating on a game show.",3,R,161,2,1
+tt0000049,"No Country for Old Men","Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",5.5,PG-13,98,2,1
+tt0000050,"The Godfather Part II","The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son expands and tightens his grip on the family crime syndicate.",4.3,PG,87,2,1
